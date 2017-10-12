@@ -17,3 +17,7 @@ blah blah blah
 Adding some random text for deployment
 
 Modified the deployment text again
+
+### Copyright
+
+2017 Git Training

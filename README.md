@@ -16,6 +16,10 @@ blah blah blah
 
 Adding some random text for deployment
 
+## How to contribute
+
+Please fork this repository and then issue Pull Requests for review
+
 Modified the deployment text again
 
 ### Copyright
